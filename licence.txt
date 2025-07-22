@@ -1,0 +1,16 @@
+LICENCIA DE USO DE SOFTWARE — BIBLIOLITE
+
+Copyright (c) 2025 Alejandro Moya
+Todos los derechos reservados.
+
+El software "Bibliolite" es propiedad exclusiva de Alejandro Moya, quien se reserva todos los derechos sobre su código fuente, diseño, interfaz, funcionalidades y documentación.
+
+Esta licencia permite al usuario acceder y utilizar el sistema a través de la plataforma proporcionada por el autor, exclusivamente bajo modalidad de servicio (SaaS). No se otorga ninguna licencia para copiar, distribuir, modificar, descompilar o realizar ingeniería inversa del sistema.
+
+El acceso al servicio está condicionado a la aceptación de los Términos de Uso y la Política de Privacidad publicados por el autor.
+
+Cualquier uso no autorizado será considerado una violación de los derechos del autor, y podrá derivar en acciones legales.
+
+Para consultas comerciales, soporte o adquisición de licencias, contactar a: alejandromoyaarjona@gmail.com.
+
+Este software se proporciona "tal cual", sin garantías expresas ni implícitas. El autor no se responsabiliza por posibles daños directos o indirectos derivados del uso del sistema.
